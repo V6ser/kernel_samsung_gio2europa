@@ -1,2 +1,2 @@
-make europa_rev02_cm7_defconfig
+make gio_rev02_cm7_defconfig
 make
